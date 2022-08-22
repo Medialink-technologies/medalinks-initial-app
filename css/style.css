@@ -208,6 +208,12 @@ section {
  }
 
 @media (max-width: 576px) {
+  #header .logo {
+  font-size: 1rem;
+
+  font-weight: 700;
+  
+}
  }
   #hero .btn-reachUs {
     font-size: 16px;
